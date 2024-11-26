@@ -1,4 +1,5 @@
 **Nama  :** Asfita Saldarisya Nadjun 
+
 **NIM   :** F55123072
 
 ## Hasil Analisis Metode Naive Bayes
