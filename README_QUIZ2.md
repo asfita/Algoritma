@@ -1,5 +1,5 @@
 **Nama  :** Asfita Saldarisya Nadjun 
-**NIM** :** F55123072
+**NIM   :** F55123072
 
 ## Hasil Analisis Metode Naive Bayes
 Dari hasil eksekusi, **Bubble Sort** cenderung lambat karena kompleksitas waktu **O(n²)**, namun efisien pada *best case* saat array sudah terurut (**O(n)**). **Insertion Sort** lebih baik dibanding Bubble Sort, terutama untuk data yang hampir terurut, dengan *best case* **O(n)**. **Selection Sort**, meski konsisten, tidak dipengaruhi urutan awal data dan memiliki performa yang sama pada *best case* dan *worst case* (**O(n²)**). Model **Naive Bayes** membantu mengidentifikasi pola perubahan data dan dapat memandu pemilihan algoritma sorting yang optimal berdasarkan pola karakteristik data masukan.
